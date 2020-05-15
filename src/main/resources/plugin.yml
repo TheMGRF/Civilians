@@ -1,0 +1,12 @@
+main: com.westosia.civilians.Main
+name: Civilians
+version: ${project.version}
+api-version: 1.13
+author: TheMGRF
+description: A simplified and optimised NPC system
+depend:
+  - WestosiaAPI
+
+commands:
+  npc:
+    description: Main Civilians command
